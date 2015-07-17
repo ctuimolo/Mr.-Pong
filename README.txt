@@ -39,3 +39,5 @@ SFML's Pong example, or nonstandard Pong mechanics...)
       and shoots it off in a completely random direction, and destroys Mr. Pong
       for the time being.
     
+
+All sprite and sound instances are entirely home made.
